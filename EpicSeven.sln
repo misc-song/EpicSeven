@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "EpicSeven", "EpicSeven\EpicSeven.njsproj", "{D2E068DA-09F1-4DAE-A46E-01BCC00C846F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E068DA-09F1-4DAE-A46E-01BCC00C846F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E068DA-09F1-4DAE-A46E-01BCC00C846F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E068DA-09F1-4DAE-A46E-01BCC00C846F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E068DA-09F1-4DAE-A46E-01BCC00C846F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D71890F0-8BEA-4658-AFF1-CFC0EFFBFE10}
+	EndGlobalSection
+EndGlobal
